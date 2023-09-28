@@ -1,0 +1,35 @@
+[
+	{
+		"precio": 15000000,
+		"id": 1,
+		"title": "Hilux",
+		"thumbnailUrl": "imgs/hilux.webp"
+	},
+
+	{
+		"precio": 10000000,
+		"id": 2,
+		"title": "Corolla",
+		"thumbnailUrl": "imgs/corollaxli.webp"
+	},
+
+	{
+		"precio": 14000000,
+		"id": 3,
+		"title": "Corolla Cross",
+		"thumbnailUrl": "imgs/corollacross.webp"
+	},
+
+	{
+		"precio": 8000000,
+		"id": 4,
+		"title": "Yaris",
+		"thumbnailUrl": "imgs/yaris.webp"
+	},
+	{
+		"precio": 33000000,
+		"id": 5,
+		"title": "SW4",
+		"thumbnailUrl": "imgs/sw4.webp"
+	}
+]
